@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Flying Pages: Preload Pages for Faster Navigation & Improved User Experience
+ * Plugin Name: Flying Pages
  * Plugin URI: https://wordpress.org/plugins/flying-pages/
  * Description: Preload pages intelligently to boost site speed and enhance user experience by loading pages before users click, ensuring instant page transitions.
  * Author: WP Speed Matters
